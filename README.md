@@ -1,5 +1,5 @@
 # mongodb-basics
 Node Task
-![Test Image]("question1.PNG")
-![Test Image]("question2.PNG")
-![Test Image]("question3.PNG")
+![Image 1]("/question1.PNG")
+![Image 2]("/question2.PNG")
+![image 3]("/question3.PNG")
