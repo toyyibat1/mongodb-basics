@@ -11,7 +11,7 @@ const findMovies = function(db, callback){
     // assert.equal(err, null);
     // console.log("all movies with a rating of 7");
     // console.log(result)
-    myMovies.find({}, { projection: {_id: 0, year: 0, rating:0} }).toArray(function(err, result){ 
+    myMovies.find({}, { projection: {_id: 0} }).toArray(function(err, result){ 
         assert.equal(err, null);
         console.log("all movies");
         console.log(result)
